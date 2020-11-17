@@ -5,7 +5,7 @@
 ## About me:
 - 16 years old
 - Looking for work experience
-- I'm currently working on an open-source linux cs:go cheat named [gamesneeze](https://github.com/whyire/gamesneeze)
+- I'm currently working on an open-source linux cs:go cheat named [gamesneeze](https://github.com/seksea/gamesneeze)
 - I'm looking to collaborate on literally anything
 
 #
