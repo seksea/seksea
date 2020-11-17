@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="/gh-banner.gif">
+</p>
+
 ## About me:
 - 16 years old
 - Looking for work experience
