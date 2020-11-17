@@ -1,16 +1,26 @@
-### Hi there 👋
+```
+      ___           ___           ___           ___     
+     /\  \         /\  \         /\__\         /\  \    
+    /::\  \       /::\  \       /:/  /        /::\  \   
+   /:/\ \  \     /:/\:\  \     /:/__/        /:/\:\  \  
+  _\:\~\ \  \   /::\~\:\  \   /::\__\____   /:/  \:\  \ 
+ /\ \:\ \ \__\ /:/\:\ \:\__\ /:/\:::::\__\ /:/__/ \:\__\
+ \:\ \:\ \/__/ \:\~\:\ \/__/ \/_|:|~~|~    \:\  \  \/__/
+  \:\ \:\__\    \:\ \:\__\      |:|  |      \:\  \      
+   \:\/:/  /     \:\ \/__/      |:|  |       \:\  \     
+    \::/  /       \:\__\        |:|  |        \:\__\    
+     \/__/         \/__/         \|__|         \/__/    
+```
+#
 
-<!--
-**seksea/seksea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- 16 years old
+- Looking for work experience
+- I'm currently working on an open-source linux cs:go cheat named [gamesneeze](https://github.com/whyire/gamesneeze)
+- I'm looking to collaborate on literally anything
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can reach me on:
+- discord: sekc#1337
+- email: sekc@sekc.me (coming soon)
