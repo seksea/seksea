@@ -23,4 +23,7 @@
 
 ## You can reach me on:
 - discord: sekc#1337
-- email: sekc@sekc.me (coming soon)
+- email: sekc@sekc.me
+
+![Profile details](https://github.com/seksea/summary-cards/blob/master/profile-summary-card-output/github/0-profile-details.svg)
+![Profile details](https://github.com/seksea/summary-cards/blob/master/profile-summary-card-output/github/2-most-commit-language.svg)
