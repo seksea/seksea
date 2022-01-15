@@ -3,7 +3,7 @@
 </p>
 
 ## About me:
-- 16 years old
+- 17 years old
 - Looking for work experience
 - I'm currently working on an open-source linux cs:go cheat named [gamesneeze](https://github.com/seksea/gamesneeze)
 - I'm looking to collaborate on pretty much anything related to any of my public repos as long as it's open source (or I'm getting paid :smirk:)
