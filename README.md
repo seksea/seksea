@@ -3,7 +3,7 @@
 - Looking for work
 
 ## Notable Projects
-- An open-source linux Counter-strike:Global offensive internal game trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
+- An open-source linux Counter-strike:Global offensive trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
 
 #
 
