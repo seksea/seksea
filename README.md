@@ -9,7 +9,7 @@
 
 ## You can reach me on
 - discord: sekc#1556
-- email: s3ksea@gmail.com
+- email: williamireland0@gmail.com
 
 #
 
