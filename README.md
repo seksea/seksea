@@ -1,18 +1,15 @@
-<p align="center">
-  <img width="100%" src="/gh-banner.gif">
-</p>
+## About me
+- 18 years old
+- Looking for work
 
-## About me:
-- 17 years old
-- Looking for work experience
-- I'm currently working on an open-source linux cs:go cheat named [gamesneeze](https://github.com/seksea/gamesneeze)
-- I'm looking to collaborate on pretty much anything related to any of my public repos as long as it's open source (or I'm getting paid :smirk:)
+## Notable Projects
+- An open-source linux Counter-strike:Global offensive internal game trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
 
 #
 
-## You can reach me on:
-- discord: sekc#1337
-- email: sekc@sekc.me
+## You can reach me on
+- discord: sekc#1556
+- email: s3ksea@gmail.com
 
 #
 
