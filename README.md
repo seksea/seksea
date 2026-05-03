@@ -1,8 +1,9 @@
 ## About me
-- 20 years old
+- 21 years old
 
 ## Notable Projects
 - An open-source linux Counter-Strike:Global Offensive trainer named [gamesneeze](https://github.com/seksea/gamesneeze)
+- A previously private linux Counter-Strike:Global Offensive trainer named [eclipse](https://github.com/seksea/eclipse) with a baller lua api.
 
 ## You can reach me on
 - discord: sekc1337
